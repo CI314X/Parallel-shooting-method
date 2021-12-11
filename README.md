@@ -1,9 +1,8 @@
 ## Parallel-shooting-method
-* Параллельный метод стрельбы для задачи Коши второго порядка.
-* Требуется установить библиотеку boost.
-* MPI
+* Realisation of the parallel shooting method for the second order Cauchy problem (y'' = f(x, y, y'))
+* Requirements: boost, MPI
 
-Код был написан мной и Денисом Дмитриевым.
+The code was written by me and D.Dmitriev
 
-В данном документе авторства Лобанова А.И. можно прочитать более подробно:
+See more details (in russian):
 http://hpc-education.ru/files/lectures/2011/lobanov/lobanov_2011_lecture09.pdf
