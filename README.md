@@ -1,5 +1,5 @@
 ## Parallel-shooting-method
-* Realisation of the parallel shooting method for the second order Cauchy problem (y'' = f(x, y, y'))
+* Implementation of the parallel shooting method for the second order Cauchy problem (y'' = f(x, y, y'))
 * Boundary value problem
 * Requirements: boost, MPI
 
